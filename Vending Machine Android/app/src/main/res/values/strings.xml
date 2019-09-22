@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TO</string>
+    <!--zxing-->
+    <string name="msg_camera_framework_bug">相机被占用或没有相机权限，请检查</string>
+    <string name="button_ok">退出</string>
+    <string name="scan_code">扫一扫</string>
+    <string name="open_flash">打开闪光灯</string>
+    <string name="close_flash">关闭闪光灯</string>
+    <string name="gallery">相册</string>
+    <string name="scan_failed_tip">图片解析失败，换个图片试试.</string>
+    <!--vending machine-->
+    <string name="enter_system">选择功能</string>
+    <string name="input_code">请输入取货码：</string>
+    <string name="dropping">出货中，请稍候……</string>
+    <string name="title_activity_check">CheckActivity</string>
+    <string name="search">查询</string>
+    <string name="voice_input">语音输入</string>
+    <string name="hint">请在此输入要询问的内容或者使用语音输入。</string>
+</resources>
